@@ -4,7 +4,7 @@
 
 My name is Igor Abrantes. I currently live in Juiz de Fora - MG, Brazil and am in the 9th period of the Computer Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
 
-In addition to college studies, I am taking a time to learn new languages and frameworks, with courses acquired on online teaching platforms.
+In addition to college studies, I am taking a time to learn new languages and frameworks (PHP and Laravel), with courses acquired on online teaching platforms.
 
 I am a fast learner, also hardworking and I always want to learn about new technologies. I have always been very studious when it's about achieving my goals. And it is not/will be different when it comes to something I really like.
 
