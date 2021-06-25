@@ -20,7 +20,7 @@ My English is basic, but I am looking to learn more and soon I will be improving
 
 * 🌱 I’m currently learning PHP, Laravel, Boostrap
 * 🤔 I seek help in any languages, it is always good to learn more and more
-* 📫 How to reach me: <a href="mailto:igoreb.abrantes@gmail.com" target="_blank">igoreb.abrantes@gmail.com</a>
+* 📫 How to reach me: <a href="mailto:igor@igorabrantes.com" target="_blank">igor@igorabrantes.com</a>
 * 😄 Pronouns: He/Him
 
 ## Tech Skills
