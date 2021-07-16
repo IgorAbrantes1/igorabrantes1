@@ -14,7 +14,7 @@ My English is basic, but I am looking to learn more and soon I will be improving
 * **Age**: 23 years
 * **Living in**: Juiz de Fora - MG, Brazil
 * **University**: studying Computational Engineering in Universidade Federal de Juiz de Fora
-* **My Portfolio**: <a href="https://www.igorabrantes.com">igorabrantes.com</a>
+* **My Portfolio**: <a href="https://igorabrantes.com">igorabrantes.com</a>
 
 ## More about me
 
