@@ -14,13 +14,13 @@ My English is basic, but I am looking to learn more and soon I will be improving
 * **Age**: 23 years
 * **Living in**: Juiz de Fora - MG, Brazil
 * **University**: studying Computational Engineering in Universidade Federal de Juiz de Fora
-* **My Portfolio**: <a href="https://igorabrantes.com">igorabrantes.com</a>
+* **My Portfolio**: [igorabrantes.com](https://igorabrantes.com)
 
 ## More about me
 
 * 🌱 I’m currently learning PHP, Laravel, Boostrap
 * 🤔 I seek help in any languages, it is always good to learn more and more
-* 📫 How to reach me: <a href="mailto:igor@igorabrantes.com" target="_blank">igor@igorabrantes.com</a>
+* 📫 How to reach me: [igor@igorabrantes.com](mailto:igor@igorabrantes.com)
 * 😄 Pronouns: He/Him
 
 ## Tech Skills
