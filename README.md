@@ -1,3 +1,20 @@
+<div>
+<div>
+    <a target='_blank' href="https://linkedin.com/in/igorabrantes">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a target='_blank' href="https://instagram.com/igorabrantes1">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a target='_blank' href="https://twitter.com/igor_abrantes1">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>
+    <a target='_blank' href="https://dev.to/igorabrantes">
+        <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
+    </a>
+</div>
+</div>
+
 ## Hi there 👋
 
 My name is Igor Abrantes, am student and am in the 9th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
