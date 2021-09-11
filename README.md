@@ -1,4 +1,4 @@
-<div>
+<div align="center">
     <a target='_blank' href="https://linkedin.com/in/igorabrantes">
         <img src="https://img.shields.io/badge/LinkedIn-2867B2?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
@@ -13,11 +13,15 @@
     </a>
 </div>
 
-## Hi there 👋
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&center=true&vCenter=true&width=500&lines=Hello+There!%F0%9F%91%8B;I'm+Igor+Abrantes.;Nice+to+meet+you!"/>
+    </a>
+</h1>
 
-My name is Igor Abrantes, am student and am in the 9th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
+My name is Igor Abrantes, am student and am in the 5th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
 
-In addition to college studies, I'm taking a time to learn new languages and frameworks (PHP, Laravel and Bootstrap), with courses acquired on online teaching platforms and with real projects.
+In addition to college studies, I'm taking a time to learn new languages and frameworks (<strong>PHP</strong>, <strong>Laravel</strong> and <strong>Bootstrap</strong>), with courses acquired on online teaching platforms and with real projects.
 
 I'm a fast learner and also always want to learn about new technologies. I have always been very studious, especially when it comes to achieving my goals. And it's not/will be different when it comes to something I really like.
 
@@ -33,7 +37,6 @@ My English is basic, but I am looking to learn more and soon I will be improving
 
 ## More about me
 
-* 🌱 I’m currently learning PHP, Laravel, Boostrap
 * 🤔 I seek help in any languages, it is always good to learn more and more
 * 📫 How to reach me: [igor@igorabrantes.com](mailto:igor@igorabrantes.com)
 * 😄 Pronouns: He/Him
