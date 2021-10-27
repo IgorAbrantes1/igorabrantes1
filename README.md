@@ -44,8 +44,8 @@ My English is basic, but I am looking to learn more and soon I will be improving
 ## GitHub Stats
 
 <p align="center" width="100%">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
-    <img width="37.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&hide=hack,shell&layout=compact&theme=material-palenight&show_icons=true" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
+    <img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&hide=hack,shell&layout=compact&theme=material-palenight&show_icons=true" />
 </p>
 
 ## Tech Skills
