@@ -40,14 +40,7 @@ My English is basic, but I am looking to learn more and soon I will be improving
 * 🤔 I seek help in any languages, it is always good to learn more and more
 * 📫 How to reach me: [igor@igorabrantes.com](mailto:igor@igorabrantes.com)
 * 😄 Pronouns: He/Him
-
-## GitHub Stats
-
-<p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
-    <img width="41.8%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&hide=hack,shell&layout=compact&theme=material-palenight&show_icons=true" />
-</p>
-
+  
 ## Tech Skills
 
 <p align="center">
@@ -58,4 +51,11 @@ My English is basic, but I am looking to learn more and soon I will be improving
     <img src="https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" />
     <img src="https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" />
     <img src="https://img.shields.io/badge/-GitHub-211F1F?style=for-the-badge&logo=github&logoColor=white" title="GitHub" />
+</p>
+
+## GitHub Stats
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&hide=hack,shell&theme=material-palenight&show_icons=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
 </p>
