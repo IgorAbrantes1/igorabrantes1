@@ -30,7 +30,7 @@ My English is basic, but I am looking to learn more and soon I will be improving
 ## Detailed information
 
 * **Name**: Igor Abrantes
-* **Age**: 23 years
+* **Age**: 24 years
 * **Living in**: Juiz de Fora - MG, Brazil
 * **University**: studying Computational Engineering in Universidade Federal de Juiz de Fora
 * **My Portfolio**: [igorabrantes.com](https://www.igorabrantes.com)
