@@ -57,7 +57,7 @@ My English is basic, but I am looking to learn more and soon I will be improving
 
 <div>
     <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&hide=hack,shell&theme=material-palenight&show_icons=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAbrantes1&count_private=true&layout=compact&langs_count=8&hide=hack,shell&theme=material-palenight&show_icons=true" />
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
     </p>
     <p align="center">
