@@ -19,7 +19,7 @@
     </a>
 </h1>
 
-My name is Igor Abrantes, am student and am in the 6th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
+My name is Igor Abrantes, am student and am in the 7th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
 
 In addition to college studies, I'm taking a time to learn new languages and frameworks (<strong>PHP</strong>, <strong>Laravel</strong> and <strong>Bootstrap</strong>), with courses acquired on online teaching platforms and with real projects.
 
