@@ -61,11 +61,6 @@ My English is basic, but I am looking to learn more and soon I will be improving
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=IgorAbrantes1&count_private=true&theme=material-palenight&show_icons=true" />
     </p>
     <p align="center">
-        <img align="center" src="https://github.com/igorabrantes1/igorabrantes1/blob/output/github-contribution-grid-snake.svg" />
+        <img align="center" src="https://raw.githubusercontent.com/IgorAbrantes1/IgorAbrantes1/output/github-contribution-grid-snake.svg" />
     </p>
 </div>
-
-
-
-
-
