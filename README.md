@@ -21,7 +21,7 @@
 
 My name is Igor Abrantes, am student and am in the 7th period of the Computational Engineering course at the Universidade Federal of Juiz de Fora (UFJF).
 
-In addition to college studies, I'm taking a time to learn new languages and frameworks (<strong>PHP</strong and <strong>Laravel</strong>), with courses acquired on online teaching platforms and with real projects.
+In addition to college studies, I'm taking a time to learn new languages and frameworks (<strong>PHP</strong> and <strong>Laravel</strong>), with courses acquired on online teaching platforms and with real projects.
 
 I'm a fast learner and also always want to learn about new technologies. I have always been very studious, especially when it comes to achieving my goals. And it's not/will be different when it comes to something I really like.
 
